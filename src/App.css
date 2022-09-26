@@ -1,0 +1,35 @@
+.App{
+  background: #111b20;
+  height: 100vh;
+}
+
+.black{
+  color: white;
+  background-color: black;
+}
+.giveborder{
+  border:solid 1px black;
+  box-shadow: 5px 10px;
+  border-radius: 4px;
+  padding: 0px;
+}
+.center{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color:#c6deec;
+  padding-bottom: 15px;
+}
+h1{
+  color:#c6deec
+}
+.underline{
+  text-decoration: underline;
+  color:#fff
+}
+.bottom{
+  margin-top: 40vh;
+}
+.dark-mode{
+  /* background-color: #5f99be; */
+  color:#5f99be;
+}
